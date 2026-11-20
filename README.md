@@ -82,7 +82,3 @@ All baselines are re-implementations from the published descriptions, sized to t
 ## Known limitations
 
 See the Discussion of the paper. In short: two datasets, regimes that act as patient-level clusters, a hold gate that freezes some densely measured variables, no formal privacy guarantee, and training that is about ten times slower than the diffusion baselines.
-
-## License
-
-MIT, see `LICENSE`. The datasets have their own licenses.
